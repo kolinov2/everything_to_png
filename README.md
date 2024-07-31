@@ -7,7 +7,7 @@ This project provides two Python scripts to encode and decode binary files into 
 
 ## How to run
 1. Use .py files 
-   - you need python and ![Requirements](https://github.com/kolinov2/everything_to_png/edit/main/README.md#requirements) installed
+   - you need python and ![Requirements](https://github.com/kolinov2/everything_to_png?tab=readme-ov-file#requirements) installed
    - then just run ```python3 encoder.py``` or ```python3 decoder.py```
 2. Or use exe from release tab
 
