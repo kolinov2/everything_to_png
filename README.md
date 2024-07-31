@@ -21,7 +21,7 @@ To run this project, you need to have the following Python libraries installed:
 You can install these libraries using pip:
 
 ```bash
-pip install pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
@@ -43,7 +43,7 @@ pip install pip install -r requirements.txt
    - The bit string is transformed into RGB values, with each RGB pixel in the PNG image encoding 24 bits (8 bits per color channel). These RGB values are used to generate the PNG image.
 
 4. **Save the Image**:
-   - The PNG image, which contains the encoded data, is saved to the specified output location.
+   - The PNG image, which contains the encoded data, is saved to the output folder.
     
 ### Decoding
 
